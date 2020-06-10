@@ -1,4 +1,4 @@
-# System-Monitor
+# System-Monitor-Manager
 
 Starter code for System Monitor Project in the Object Oriented Programming.
 
